@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: red;
+}
+#comeco{ text-align: center;
+    height: 10px;
+
+
+}
+.inicio{
+    color: #FFC634;
+    height: 100px;
+}
+.bebidas{
+    color: #FFFFFF;
+}
